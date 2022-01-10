@@ -1,9 +1,9 @@
 Hi there 👋 
 
  
-- 🔭 I’m currently study Electrical Engineering at University of Brasília (UnB). 
-- 🌱 I’m currently learning Python, Data Science, AI and engineering skills. 
-- 👯 I’m looking to collaborate on projects about data analysis and AI.  
+- 🔭 I currently study Electrical Engineering at University of Brasília (UnB). 
+- 🌱 I'm currently learning Python, Data Science, AI and engineering skills. 
+- 👯 I’m looking for to collaborate on projects about data analysis and AI.  
 - ⚡ Fun fact: Games, science and technology.
 
 <div align = "center">
