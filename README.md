@@ -1,4 +1,4 @@
-Hi there 👋 
+Hi, my name is Caio Flôres 👋 
 
  
 - 🔭 I currently study Electrical Engineering at University of Brasília (UnB). 
