@@ -1,10 +1,8 @@
 Hi, my name is Caio Flôres 👋 
 
  
-- 🔭 I currently study Electrical Engineering at University of Brasília (UnB). 
-- 🌱 I'm currently learning Python, Data Science, AI and engineering skills. 
-- 👯 I’m looking for to collaborate on projects about data science and AI.  
-- ⚡ Fun fact: Games, science and technology.
+- 🔭 I currently study Electrical Engineering at University of Brasília (UnB) and at Hochschule Hamm-Lippstadt (HSHL). 
+- ⚡ Python, C/C++, ML, DL, autonomous systems and engineering skills. 
 
 <div align = "center">
   <a href="https://github.com/caiocflores">
