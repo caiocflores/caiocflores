@@ -1,8 +1,4 @@
-Hi, my name is Caio Flores 👋 
-
- 
-- 🔭 I currently study Electrical Engineering at University of Brasília (UnB) and at Hochschule Hamm-Lippstadt (HSHL). 
-- ⚡ Python, C/C++, ML, DL, autonomous systems and engineering skills. 
+- BsC. of Electrical engineer from University of Brasília (UnB). Graduating (MsC) at the same university. 
 
 <div align = "center">
   <a href="https://github.com/caiocflores">
