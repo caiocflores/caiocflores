@@ -1,4 +1,4 @@
-- BsC. of Electrical engineer from University of Brasília (UnB). Graduating (MsC) at the same university. 
+- BsC. of Electrical Engineering from University of Brasília (UnB). Graduating (MsC) at the same university. 
 
 <div align = "center">
   <a href="https://github.com/caiocflores">
